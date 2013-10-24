@@ -1,0 +1,119 @@
+body
+  {
+    background-image: url('img/bg.png'); 
+    background-repeat: repeat;
+  } 
+  
+  p {font-family:"arial"}
+  a {font-family:"arial"}
+  
+h1 {
+font-size: 1.5em;
+font-family:"arial";
+}
+
+h2 {
+font-size: 1em;
+font-family:"arial";
+color: #999;
+}
+
+h2.standOut{
+  color: red;
+}
+
+.centrewrap {
+width: 80%;
+margin-right:auto;
+margin-left:auto;
+}
+
+.btn-primary {
+    background-color: rgb(0, 116, 204);
+    background-image: -moz-linear-gradient(center top , rgb(0, 136, 204), rgb(0, 85, 204));
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+
+    padding: 4px 10px;
+    margin-bottom: 0px;
+    font-size: 13px;
+    margin: 5px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2) inset, 0px 1px 2px rgba(0, 0, 0, 0.05);
+    color: white;
+    float: left;
+}
+
+.btn-primary:hover {
+  background: #2a81d7;
+  background: -moz-linear-gradient(0% 100% 90deg, #206bcb, #3e9ee5);
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3e9ee5), to(#206bcb));
+  border-top: 1px solid #2a73a6;
+  border-right: 1px solid #165899;
+  border-bottom: 1px solid #07428f;
+  border-left: 1px solid #165899;
+  -moz-box-shadow: inset 0 1px 0 0 #62b1e9;
+  -webkit-box-shadow: inset 0 1px 0 0 #62b1e9;
+  cursor: pointer;
+  text-shadow: 0 -1px 1px #1d62ab;
+}
+
+body{
+ margin:0px;
+}
+
+#nav
+ {
+ background-color:#262626;
+ width:100%;
+ height:50px;
+ box-shadow: 0px 1px 50px #5E5E5E;
+ position:fixed;
+ top:0px;
+}
+
+#navigation
+{
+ list-style-type:none; 
+}
+li 
+{
+ display:inline;
+ padding:10px;
+}
+#nav a
+{
+ font-family:verdana;
+ text-decoration:none;
+ color:#999;
+} 
+#nav a:hover 
+{
+ color:#fff;
+}
+
+.title
+ {
+ color:#999;
+ font-family:arial;
+ font-size:20px;
+ margin-left:3%;
+}
+.subtitle 
+{
+ color:#999;
+ font-family:arial;
+ font-size:13px;
+}
+
+

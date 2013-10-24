@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<resources>
+  <string name="org_routehandler_1">FILE <strong>A</strong></string>
+  <string name="org_routehandler_2">FILE B</string>
+  <string name="org_routehandler_3">FILE B</string>
+  <string name="org_routehandler_4">FILE A</string>
+  <string name="org_routehandler_5">FILE B</string>
+  <string name="org_routehandler_13">FILE B</string>
+  <string name="org_routehandler_14">FILE B</string>
+  <string name="org_routehandler_15">FILE A</string>
+  <string name="org_routehandler_16">FILE A</string>
+  <string name="org_routehandler_17">FILE A</string>
+  <string name="org_routehandler_18">FILE A</string>
+  <string name="org_routehandler_18">FILE B</string>
+  <string name="org_routehandler_19">FILE C</string>
+   <string name="task_routehandler_22">The task <a href="%s">%s</a> has been successfully unclaimed. The organisation will be notified by e-mail and provided with your feedback.</string>
+       
+</resources>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<resources>
+  <string name="project_routehandler_13">FILE B <strong> FILE DE</strong> must be set.</string>
+  <string name="org_routehandler_T1000"><strong>FILE B</strong>setttttse</string>
+  <string name="org_routehandler_T1001"><strong>FILE B</strong>setttttse</string>
+  <string name="org_routehandler_T1002"><strong>FILE B</strong>setttttse</string>
+  <string name="org_routehandler_T1003"><strong>FILE B</strong>setttttse</string>
+  <string name="org_routehandler_13">FILE B</string>
+  <string name="org_routehandler_14">FILE B</string>
+  <string name="org_routehandler_15">FILE A</string>
+  <string name="org_routehandler_2">FILE A</string>
+  <string name="org_routehandler_3">FILE B</string>
+  <string name="org_routehandler_4">FILE B</string>
+  <string name="org_routehandler_5">FILE B</string>
+  <string name="org_routehandler_6">FILE DE </string>
+  <string name="org_routehandler_16">FILE A</string>
+  <string name="org_routehandler_17">FILE A</string>
+  <string name="org_routehandler_18">FILE C</string>
+</resources>
